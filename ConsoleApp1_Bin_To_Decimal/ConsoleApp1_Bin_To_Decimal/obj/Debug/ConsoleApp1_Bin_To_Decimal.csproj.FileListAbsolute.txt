@@ -1,0 +1,7 @@
+D:\truez\Desktop\Natasha\CSharp\Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\bin\Debug\ConsoleApp1_Bin_To_Decimal.exe.config
+D:\truez\Desktop\Natasha\CSharp\Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\bin\Debug\ConsoleApp1_Bin_To_Decimal.exe
+D:\truez\Desktop\Natasha\CSharp\Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\bin\Debug\ConsoleApp1_Bin_To_Decimal.pdb
+D:\truez\Desktop\Natasha\CSharp\Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\obj\Debug\ConsoleApp1_Bin_To_Decimal.csprojResolveAssemblyReference.cache
+D:\truez\Desktop\Natasha\CSharp\Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\obj\Debug\ConsoleApp1_Bin_To_Decimal.csproj.CoreCompileInputs.cache
+D:\truez\Desktop\Natasha\CSharp\Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\obj\Debug\ConsoleApp1_Bin_To_Decimal.exe
+D:\truez\Desktop\Natasha\CSharp\Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\ConsoleApp1_Bin_To_Decimal\obj\Debug\ConsoleApp1_Bin_To_Decimal.pdb
