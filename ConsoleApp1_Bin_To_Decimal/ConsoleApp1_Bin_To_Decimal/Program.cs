@@ -20,7 +20,7 @@ namespace ConsoleApp1_Bin_To_Decimal
                     decimalOutput = BinaryToDecimalNegative(binaryInput);
                 }
                 Console.WriteLine(decimalOutput);
-                Console.WriteLine("Hooray!");
+                Console.WriteLine("Hooay!");
             }
         }
 
